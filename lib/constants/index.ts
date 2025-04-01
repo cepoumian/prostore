@@ -23,11 +23,11 @@ export const signUpDefaultValues = {
 };
 
 export const shippingAddressDefaultValues = {
-  fullName: "",
-  streetAddress: "",
-  city: "",
-  postalCode: "",
-  country: "",
+  fullName: "Covidia Ramos",
+  streetAddress: "123 Main St",
+  city: "Chihuahua",
+  postalCode: "31234",
+  country: "Mexico",
 };
 
 export const PAYMENT_METHODS = process.env.PAYMENT_METHODS
